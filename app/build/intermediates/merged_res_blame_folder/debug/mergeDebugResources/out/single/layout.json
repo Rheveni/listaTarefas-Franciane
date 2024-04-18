@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-mergeDebugResources-32:\\layout\\addtarefa.xml",
+        "source": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-main-35:\\layout\\addtarefa.xml"
+    },
+    {
+        "merged": "com.example.listatarefas.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.listatarefas.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-mergeDebugResources-32:\\layout\\tarefas_item.xml",
+        "source": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-main-35:\\layout\\tarefas_item.xml"
+    },
+    {
+        "merged": "com.example.listatarefas.app-mergeDebugResources-32:/layout/tarefas_item.xml",
+        "source": "com.example.listatarefas.app-main-35:/layout/tarefas_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-mergeDebugResources-32:\\layout\\editar_tarefa.xml",
+        "source": "C:\\Users\\rheve\\.gradle\\daemon\\8.4\\com.example.listatarefas.app-main-35:\\layout\\editar_tarefa.xml"
+    }
+]
